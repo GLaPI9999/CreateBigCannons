@@ -352,7 +352,7 @@
   "death.attack.createbigcannons.machine_gun_fire": "%s a été perforé par des tirs de mitrailleuse",
   "death.attack.createbigcannons.machine_gun_fire.in_water": "%s a été criblé de balles par des tirs de mitrailleuse et la mer autour d'eux est devenue rose",
   "death.attack.createbigcannons.molten_metal": "%s a brûlé dans du métal en fusion",
-  "death.attack.createbigcannons.molten_metal.player": "%s a brûlé dans du métal en fusion",
+  "death.attack.createbigcannons.molten_metal.player": "%s a brûlé dans du métal en fusion en essayant de fuir %s",
   "death.attack.createbigcannons.shrapnel": "%s a été déchiqueté par des éclats d'obus",
   "death.attack.createbigcannons.traffic_cone": "%s a été frappé du ciel",
   "debug.createbigcannons.block_resistance": "Résistance du bloc : %s",
